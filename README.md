@@ -1,5 +1,5 @@
 ## Exploratory Data Analysis Assignment 1
-This is repository contains the .R programs and data necessary for the completion of the first programming assignment in the Exploratory Data Analysis course.
+This is repository contains the .R programs necessary for the completion of the first programming assignment in the Exploratory Data Analysis course.  The data set used is too big to be stored on this Git Hub account, but can be found here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 
 ### The Assignment
 
